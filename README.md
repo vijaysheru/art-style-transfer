@@ -1,4 +1,4 @@
-# Artistic Vision Transfer
+# Artistic Style Transfer
 
 Artistic Vision Transfer is a web application that transforms your photos into stunning artworks using neural style transfer techniques. This project leverages Flask for the web framework and TensorFlow for the style transfer model.
 
